@@ -1,5 +1,5 @@
 ---
-title: "{ Board Meeting / Sep 9th 2023 }"
+title: "Board Meeting / Sep 9th 2023"
 datePublished: Sat Sep 09 2023 16:07:08 GMT+0000 (Coordinated Universal Time)
 cuid: clmc7ypyj000a08jmh99sd3al
 slug: board-meeting-sep-9th-2023
