@@ -1,8 +1,8 @@
 ---
-title: "{ MANA Meeting / Sep 8th 2023 }"
+title: "{ Board Meeting / Sep 8th 2023 }"
 datePublished: Fri Sep 08 2023 16:36:18 GMT+0000 (Coordinated Universal Time)
 cuid: clmatkdlt000208ifceydffpe
-slug: mana-meeting-sep-8th-2023
+slug: board-meeting-sep-8th-2023
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694491814893/1a780e44-fbd2-4859-8e68-6d8866a25794.jpeg
 tags: startups
 
