@@ -3,7 +3,7 @@ title: "Amplify Your Talent / Cultivate Your Value"
 datePublished: Wed Sep 06 2023 18:57:00 GMT+0000 (Coordinated Universal Time)
 cuid: clm83pllk000h09mfe9ksc38k
 slug: amplify-your-talent-cultivate-your-value
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694492135640/bf40e492-ff3b-4b66-9a33-68850c4f1f48.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695185607875/e9e965f6-f096-4e6e-a9a7-a94240868bd1.png
 tags: music, startups
 
 ---
